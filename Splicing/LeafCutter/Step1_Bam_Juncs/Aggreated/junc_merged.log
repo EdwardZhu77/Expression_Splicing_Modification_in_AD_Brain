@@ -1,0 +1,77 @@
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_m6A.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_m6A.bam.junc
+
+Warning: The index file is older than the data file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_m6A.bam.bai
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_merge.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_merge.bam.junc
+
+Warning: The index file is older than the data file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_merge.bam.bai
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_mut.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_mut.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_m6A.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_m6A.bam.junc
+
+Warning: The index file is older than the data file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_m6A.bam.bai
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_merged.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_merged.bam.junc
+
+Warning: The index file is older than the data file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_merged.bam.bai
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_mut.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_mut.bam.junc
+
+Warning: The index file is older than the data file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_mut.bam.bai
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/TN_JL_DART-mut_AD-combined.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/TN_JL_DART-mut_AD-combined.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/TN_JL_DART-mut_healthy-combined.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/TN_JL_DART-mut_healthy-combined.bam.junc
+

@@ -1,0 +1,20 @@
+# {
+#     "command": "/home/pjewell/majiq/env_3.8/bin/voila modulize output/build/splicegraph.sql output/heterogen/HepG2_SRSF4KD-HepG2_NT.het.voila output/heterogen/HepG2_SRSF4KD-K562_NT.het.voila output/heterogen/K562_NT-HepG2_NT.het.voila output/heterogen/K562_SRSF4KD-HepG2_NT.het.voila output/heterogen/K562_SRSF4KD-HepG2_SRSF4KD.het.voila output/heterogen/K562_SRSF4KD-K562_NT.het.voila -d output/modulized --overwrite",
+#     "het_IQR_nonchanging_threshold": 0.1,
+#     "het_changing_threshold": 0.2,
+#     "het_nonchanging_threshold": 0.05,
+#     "het_pvalue_changing_threshold": 0.05,
+#     "het_pvalue_nonchanging_threshold": 0.05,
+#     "voila_version": "2.2.0"
+# }
+module_id	gene_id	gene_name	seqid	strand	lsv_id	cassette	tandem_cassette	alt3	alt5	putative_alt3	putative_alt5	alt3_5	mxe	ir	ale	afe	putative_ale	putative_afe	orphan_junc	other	multi_exon_spanning	exitron	complex	denovo_juncs	denovo_introns	num_events	module_event_combination
+gene:ENSG00000188554_1	gene:ENSG00000188554	NBR1	17	+	gene:ENSG00000188554:s:43170481-43170943;gene:ENSG00000188554:t:43175791-43176676	1			1														True	1	0	2	cassette^1|alt5^1
+gene:ENSG00000120963_1	gene:ENSG00000120963	ZNF706	8	-	gene:ENSG00000120963:t:101202333-101202452;gene:ENSG00000120963:t:101204650-101204779;gene:ENSG00000120963:t:101201716-101201743;gene:ENSG00000120963:s:101205435-101205732;gene:ENSG00000120963:s:101204650-101204779	2								3							3		True	0	0	8	cassette^2|ir^3|multi_exon_spanning^3
+gene:ENSG00000084652_1	gene:ENSG00000084652	TXLNA	1	+	gene:ENSG00000084652:s:32179686-32179776;gene:ENSG00000084652:t:32181242-32181577	2		1															True	2	0	3	cassette^2|alt3^1
+gene:ENSG00000105426_1	gene:ENSG00000105426	PTPRS	19	-	gene:ENSG00000105426:t:5218420-5218534;gene:ENSG00000105426:t:5218787-5218964;gene:ENSG00000105426:s:5219309-5219467	1								3							2		True	1	0	6	cassette^1|ir^3|multi_exon_spanning^2
+gene:ENSG00000152601_1	gene:ENSG00000152601	MBNL1	3	+	gene:ENSG00000152601:s:152335111-152335230;gene:ENSG00000152601:s:152300194-152300367;gene:ENSG00000152601:t:152299405-152300110;gene:ENSG00000152601:s:152244321-152244440;gene:ENSG00000152601:t:152414941-152415111;gene:ENSG00000152601:s:152268040-152269092											2				1	3		True	1	0	6	afe^2|multi_exon_spanning^3|other^1
+gene:ENSG00000152601_2	gene:ENSG00000152601	MBNL1	3	+	gene:ENSG00000152601:t:152447620-152447773;gene:ENSG00000152601:s:152445282-152445539	1																	False	0	0	1	cassette^1
+gene:ENSG00000152601_3	gene:ENSG00000152601	MBNL1	3	+	gene:ENSG00000152601:s:152447620-152447773;gene:ENSG00000152601:t:152456267-152456361;gene:ENSG00000152601:t:152455542-152455577;gene:ENSG00000152601:s:152455542-152455577	1								2						1			True	0	1	4	cassette^1|ir^2|other^1
+gene:ENSG00000106603_1	gene:ENSG00000106603	COA1	7	-	gene:ENSG00000106603:s:43656033-43656153;gene:ENSG00000106603:t:43648188-43650296;gene:ENSG00000106603:t:43650493-43650712;gene:ENSG00000106603:s:43729429-43729717;gene:ENSG00000106603:t:43656033-43656153	6			1					3	1						5		True	2	1	16	cassette^6|alt5^1|ir^3|ale^1|multi_exon_spanning^5
+gene:ENSG00000116350_1	gene:ENSG00000116350	SRSF4	1	-	gene:ENSG00000116350:s:29160375-29160795;gene:ENSG00000116350:s:29165890-29166064;gene:ENSG00000116350:t:29159374-29159551;gene:ENSG00000116350:t:29160375-29160795;gene:ENSG00000116350:s:29181646-29181987;gene:ENSG00000116350:t:29154475-29154910				1	1				4	1					1	2		True	3	2	10	alt5^1|putative_alt3^1|ir^4|ale^1|multi_exon_spanning^2|other^1
+gene:ENSG00000160194_1	gene:ENSG00000160194	NDUFV3	21	+	gene:ENSG00000160194:s:42893265-42893381;gene:ENSG00000160194:t:42896927-42897047;gene:ENSG00000160194:t:42903182-42904276;gene:ENSG00000160194:s:42903182-42904276;gene:ENSG00000160194:t:42908633-42913304;gene:ENSG00000160194:t:42906840-42906902;gene:ENSG00000160194:s:42896927-42897047	7	2							7						1	3		True	4	2	20	cassette^7|tandem_cassette^2|ir^7|multi_exon_spanning^3|other^1

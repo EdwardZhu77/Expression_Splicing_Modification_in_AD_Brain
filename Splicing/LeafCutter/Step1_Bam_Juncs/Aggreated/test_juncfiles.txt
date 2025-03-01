@@ -1,0 +1,8 @@
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_m6A.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_merge.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/AD_mut.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_m6A.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_merged.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/CTRL_mut.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/TN_JL_DART-mut_AD-combined.bam.junc
+/projectnb/cepinet/users/zhiyuanzhu/Aggerate_Data/TN_JL_DART-mut_healthy-combined.bam.junc

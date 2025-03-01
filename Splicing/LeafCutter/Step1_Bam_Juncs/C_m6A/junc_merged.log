@@ -1,0 +1,171 @@
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C1-WT_S1_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C1-WT_S1_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C10-WT_S10_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C10-WT_S10_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C11-WT_S11_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C11-WT_S11_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C12-WT_S12_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C12-WT_S12_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C13-WT_S13_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C13-WT_S13_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C14-WT_S14_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C14-WT_S14_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C15-WT_S15_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C15-WT_S15_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C16-WT_S16_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C16-WT_S16_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C17-WT_S17_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C17-WT_S17_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C18-WT_S18_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C18-WT_S18_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C19-WT_S19_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C19-WT_S19_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C2-WT_S2_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C2-WT_S2_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C3-WT_S3_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C3-WT_S3_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C4-WT_S4_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C4-WT_S4_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C5-WT_S5_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C5-WT_S5_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C6-WT_S6_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C6-WT_S6_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C7-WT_S7_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C7-WT_S7_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C8-WT_S8_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C8-WT_S8_Aligned.sortedByCoord.rm_dup.bam.junc
+
+
+Program:	regtools
+Version:	1.0.0
+Minimum junction anchor length: 8
+Minimum intron length: 50
+Maximum intron length: 500000
+Alignment: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C9-WT_S9_Aligned.sortedByCoord.rm_dup.bam
+Output file: /projectnb/cepinet/users/zhiyuanzhu/Individual_Data/CTRL_m6A/WB_LJ_C9-WT_S9_Aligned.sortedByCoord.rm_dup.bam.junc
+

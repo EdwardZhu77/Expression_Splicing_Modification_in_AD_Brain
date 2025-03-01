@@ -1,0 +1,14 @@
+# {
+#     "command": "/home/pjewell/majiq/env_3.8/bin/voila modulize output/build/splicegraph.sql output/heterogen/HepG2_SRSF4KD-HepG2_NT.het.voila output/heterogen/HepG2_SRSF4KD-K562_NT.het.voila output/heterogen/K562_NT-HepG2_NT.het.voila output/heterogen/K562_SRSF4KD-HepG2_NT.het.voila output/heterogen/K562_SRSF4KD-HepG2_SRSF4KD.het.voila output/heterogen/K562_SRSF4KD-K562_NT.het.voila -d output/modulized --overwrite",
+#     "het_IQR_nonchanging_threshold": 0.1,
+#     "het_changing_threshold": 0.2,
+#     "het_nonchanging_threshold": 0.05,
+#     "het_pvalue_changing_threshold": 0.05,
+#     "het_pvalue_nonchanging_threshold": 0.05,
+#     "voila_version": "2.2.0"
+# }
+module_id	gene_id	gene_name	seqid	strand	lsv_id	event_id	complex	other_junctions	other_exons
+gene:ENSG00000116350_1	gene:ENSG00000116350	SRSF4	1	-	gene:ENSG00000116350:s:29160375-29160795	gene:ENSG00000116350_1_other	True	29154910-29159374	29154696-29154910;29159374-29159486
+gene:ENSG00000152601_1	gene:ENSG00000152601	MBNL1	3	+	gene:ENSG00000152601:s:152300194-152300367;gene:ENSG00000152601:s:152335111-152335230	gene:ENSG00000152601_1_other	True	152269092-152299405;152299254-152299405;152300367-152414941	152268040-152269092;152299405-152300110;152298982-152299254;152300194-152300367;152414941-152415111
+gene:ENSG00000152601_3	gene:ENSG00000152601	MBNL1	3	+	gene:ENSG00000152601:t:152455542-152455577	gene:ENSG00000152601_3_other	True		
+gene:ENSG00000160194_1	gene:ENSG00000160194	NDUFV3	21	+	gene:ENSG00000160194:t:42896927-42897047	gene:ENSG00000160194_1_other	True		
